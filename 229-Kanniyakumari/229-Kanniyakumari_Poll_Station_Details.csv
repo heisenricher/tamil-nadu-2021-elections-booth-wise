@@ -1,0 +1,353 @@
+﻿Polling Station No.,Building,Polling Areas
+10,10 10,10M
+11,,10 A(W)
+12,11 11,11 M
+13,,11 A(W)
+13,13M,"Govt. Primary School, Azhagiyapandipuram,New Building East Portion - 629851"
+13,13 A(W),"Govt. Primary School, Azhagiyapandipuram,Govt. Primary School, Azhagiyapandipuram,compus CRC centre"
+15,15 M,"Lutheran Middle School, Marukalthalai,Add. North Building, East Portion - 629851"
+15,15 A(W),"Lutheran Middle School, Marukalthalai,South new Building - 629852"
+25,21 21,21 M
+26,,21 A(W)
+30,25 25,25 M
+31,,25 A(W)
+34,28 28,28 M
+35,,28 A(W)
+36,29 29,29M
+37,,29 A(W)
+38,30 30,30M
+39,,30 A(W)
+40,31 31,31M
+41,,31 A(W)
+42,32 32,32M
+43,,32 A(W)
+44,33 33,33M
+45,,33 A(W)
+49,37 37,37M
+49,49M,"Govt. Hr. Sec. School, Thazhakudy,New Building, North Protion - 629901"
+49,49 A(W),"Govt. Hr. Sec. School, Thazhakudy,M.P. hall Nort portion South side. - 629901"
+50,,37 A(W)
+51,38 38,38M
+52,,38 A(W)
+54,40 40,40M
+55,,40 A(W)
+59,44 44,44M
+60,,44 A(W)
+61,45 45,45M
+62,,45 A(W)
+75,57 57,57M
+75,75M,"Govt. Primary School,Aral Perumalpuram,New Building - 629301"
+75,75 A(W),"Govt. Primary School,Aral Perumalpuram,"
+76,,57 A(W)
+81,62 62,62M
+82,,62 A(W)
+83,63 63,63M
+84,,63 A(W)
+90,90M,"Govt. High School , Vellamadam,Main Building East Portion - 629305"
+90,90 A(W),"Govt. High School , Vellamadam,West portion, Last room.-629305"
+91,70 70,70M
+92,,70 A(W)
+95,73 73,73M
+96,,73 A(W)
+100,76 76,76M
+100,100,"Govt. High School, Thirupathisaram,New Building, East Portion - 629901"
+101,,76 A(W)
+101,101,"Govt. Primary School, Athalavilai,Main Building,East Portion - 629303"
+102,102,"Govt. Primary School, Athalavilai,Main Building,West Portion North Side New Building - 629303"
+103,78 78,78M
+104,,78 A(W)
+104,104,"Govt. High School, Ramapuram,North Building - 629303"
+105,105,"St. Michaels High School, Rajavoor,(New Building) East Portion - 629402"
+107,81 81,81M
+107,107,"Govt. Hr Sec School, Kumarapuram Thoppur,North Building, East Portion - 629402"
+108,,81 A(W)
+108,108,"Govt. Hr Sec School, Kumarapuram Thoppur,North Building, East Portion - 629402"
+109,82 82,82M
+109,109,"Little Flower Primary School, Ramanathichanputhoor,East Portion - 629402"
+110,,82 A(W)
+110,110,"Little Flower Primary School, Ramanathichanputhoor,East Portion - 629402"
+111,111,"Govt. Hr.Sec. School, Kumarapuram Thoppor,North Building West Portion - 629402"
+112,112,"Govt. Hr.Sec. School, Kumarapuram Thoppor,(South Building) Central Portion - 629402"
+113,85 85,85M
+113,113,"Govt. Hr.Sec. School, Kumarapuram Thoppor,West Building, North Portion - 629402"
+114,,85 A(W)
+115,115,"Kavimani Desika Vinayagam Pillai Vasippu Salai Theroor,North Building, East Portion - 629704"
+116,87 87,87M
+117,,87 A(W)
+118,118,"District Institute of Education and Training Centre. Kulasekaranputhoor.,Main Building, West Portion - 629704"
+119,119,"District Institute of Education and Training Centre. Kulasekaranputhoor.,Main Building, West Portion - 629704"
+123,123,"Govt. Middle School, Suchindrum,Main Building East Portion - 629704"
+124,124,"Govt. Middle School, Sucendram,Main Building West Portion - 629704"
+125,94 94,94M
+125,125,"Govt. Primary School, Vazhukkanparai,New Building.South Portion. 629704"
+126,,94 A(W)
+126,126,"Govt. Primary School, Vazhukkanparai,North New Building.West Portion - 629704"
+127,95 95,95M
+128,,95 A(W)
+130,130,"Govt. Primary School, Sucendram,North New Building, North Portion - 629704"
+131,98 98,98M
+131,131M,"Govt. Primary School, Karkadu,North Portion - 629704"
+131,131 A(W),"Govt. Primary School, Karkadu,Main Building Middle portion. - 629704"
+132,,98 A(W)
+132,132,"Govt. Primary School, Karkadu,South Portion - 629704"
+133,133,"Govt. Middle School, Parakkai,Main Building, West Portion - 629601"
+134,134,"Govt. Middle School, Parakkai,Main Building, Center West Portion - 629601"
+135,135,"Govt. Middle School, Parakkai,West Building South Portion - 629601"
+136,136,"Govt. Middle School, Parakkai,Main Building,Front Portion - 629601"
+137,103 103,103M
+137,137,"Govt. Middle School, Parakkai,Main Building,Center East Portion - 629601"
+138,,103 A(W)
+140,140M,"Govt. High School, Parakkai, Chetty Street,Main Building, East Portion - 629601"
+140,140 A(W),"Govt. High School, Parakkai, Chetty Street,Main Building, East Portion Last room. - 629601"
+141,106 106,106M
+142,,106 A(W)
+143,143,"Govt. Primary School, Pulluvilai,Main Building, North Portion - 629603"
+145,145,"Govt. Primary School, Koilvilai,New Building, South Portion - 629501"
+147,147,"Govt. Primary School, Koilvilai,New Building, South Portion - 629501"
+148,148,"Govt. Primary School, Kulathuvilai,Main Building - 629501"
+149,149,"Govt. Higher Sec School, Thengamputhoor,West New Building,Central Portion - 629603"
+150,114 114,114M
+151,,114 A(W)
+151,151,"Govt. Higher Sec School, Thengamputhoor,New Central Building, East Portion - 629603"
+153,116 116,116M
+153,153,"Govt. Higher Secondary School, Manikettipottal,Main Building Middle Portion - 629501"
+154,,116 A(W)
+154,154,"Govt. Higher Secondary School, North Soorankudy,New Building, East Portion - 629501"
+155,117 117,117M
+155,155,"Govt. Higher Secondary School, North Soorankudy,New Building, West Portion - 629501"
+156,,117 A(W)
+156,156,"Govt. Higher Secondary School, Soorankudy,New Building, Central Portion - 629501"
+158,158,"Govt. Higher Secondary School, Sundapattivilai,Main Building, Middle Portion - 629501"
+159,120 120,120M
+159,159,"Govt. Higher Secondary School,Sundapattivilai,New Building, Western Portion -629501"
+160,,120 A(W)
+161,121 121,121M
+161,161,"Govt. Middle School, Kattadithattu,Main Building, South Portion - 629501"
+162,,121 A(W)
+162,162,"Govt. Primary School, Puthoor,Main Building, North Portion - 629501"
+163,122 122,122M
+163,163,"Govt. Primary School, Puthoor,South Side New Building - 629501"
+164,,122 A(W)
+164,164,"Govt. High School, Puthoor,Front New Building - 629501"
+165,165,"Govt. High School, Puthoor, New Building back side - 629501"
+167,167,"Govt. Primary School, Aathikkattuvilai,South Portion - 629501"
+169,127 127,127M
+170,,127 A(W)
+171,128 128,128M
+171,171,"Kanniyakumary District Central Coir Sales Co-operative Society, Ethamozhy,Second Building, West Portion - 629501"
+172,,128 A(W)
+172,172,"Kanniyakumary District Central Coir Sales Co-operative Society, Ethamozhy,Second Building, West Portion - 629501"
+173,129 129,129M
+173,173,"Govt. Higher Secondary School, , Sundapattivilai, ,East Middle Building, East Portion. Room No.13"
+174,,129 A(W)
+174,174,"Kanniyakumari Dist. Central Coir Sales Co-operative Society Ethamozhi,Office Room - 629501"
+175,175,"St. Antony's. Primary School, Periakadu, North Building West Portion , Science Lab"
+176,176,"St. Marys High School, Kesavanputhenthurai,Main Building, East Portion - 629501"
+177,177,"St. Marys High School, Kesavanputhenthurai,Main Building, Middle Portion - 629501"
+179,179,"Infant Jesus Middle School, Puthenthurai,West New Building, North Portion - 629501"
+180,180,"Infant Jesus Middle School, Puthenthurai,West New Building, South Portion - 629501"
+182,182,"St. Jude Thatheyus Higher Sec School, Pallamthurai,South Building, East Portion - 629601"
+183,183,"St. Jude Thatheryus Higher Sec School Pallamthurai,South Building, West Portion - 629601"
+184,138 138,138M
+184,184,"St. Jude Thatheryus Higher Sec School Pallamthurai,New Building, Middle Portion - 629601"
+185,,138 A(W)
+186,139 139,139M
+186,186,"LMPC , Higher Secondary School, Puthalam,New Building, West Portion - 629602"
+187,,139 A(W)
+187,187,"LMPC , Higher Secondary School, Puthalam,New Building, West Portion - 629602"
+188,188M,"LMPC, Higher Secondary School, Puthalam,New Building, East Portion - 629602"
+188,188 A(W),"LMPC, Higher Secondary School, Puthalam,New Building, Middle Portion - 629602"
+190,141 141,141M
+190,190,"Govt. Primary School, Puthalam,Main Building, North Portion - 629602"
+191,,141 A(W)
+191,191,"Govt. Primary School, Thengamputhoor,South West Building - 629603"
+192,142 142,142M
+192,192,"Govt. Primary School, Thengamputhoor,South West Building - 629603"
+193,,142 A(W)
+193,193,"Govt. Middle School, Chothavilai,Main Building, West Portion - 629602"
+195,144 144,144M
+195,195,"Govt. Middle School, Chothavilai,New Building, North Portion - 629602"
+196,,144 A(W)
+196,196,"St. Andrews Primary School, Manakudithurai,New Building, East Portion - 629602"
+197,197,"St. Andrews Primary School, Manakudithurai,New Building, East Portion - 629602"
+198,146 146,146M
+198,198,"St. Andrews Primary School, Manakudithurai,New Building, West Portion - 629602"
+199,,146 A(W)
+200,200,"St. Antonys Middle School, Senbagaramanputhenthurai,Main Building, East Portion - 629602"
+201,201,"St. Antonys Middle School, Senbagaramanputhenthurai,Main Building, East Portion - 629602"
+202,202,"Govt. High School, Eraviputhoor,New Building, South Portion - 629402"
+203,150 150,150M
+203,203,"Govt. High School, Eraviputhoor,New Building, South Portion - 629402"
+204,,150 A(W)
+204,204,"Govt. High School, Nalloor, Main Tiled Building West Portion - 629704"
+205,205,"Govt. High School, Nalloor,Main Tiled Building East Portion - 629704"
+206,152 152,152M
+206,206,"Govt. Middle School, Nalloor,West New Building Eastern Portion - 629704"
+207,,152 A(W)
+207,207,"Govt. Middle School, Nalloor,West New Building, West Portion - 629704"
+209,209,"L. M.S. Hr. Sec. School, Jamestown,Rev.James Russel Block South Portion - 629401"
+210,210,"L. M.S. Hr. Sec. School, Jamestown,Bicentenary Block South East Portion - 629401"
+211,211,"L. M.S. Hr. Sec. School, Jamestown,Rev.James Russel Block North Portion - 629401"
+212,157 157,157M
+212,212,"L. M.S. Hr. Sec. School, Jamestown,Bicentenary Block, Middle Portion - 629401"
+213,,157 A(W)
+213,213,"Govt. High School, Kanagappapuram,New Building, North Portion - 629401"
+214,214,"Govt. High School, Kanagappapuram,New Building, South Portion - 629401"
+216,160 160,160M
+216,216,"Govt. High School, Variyoor,East Building - 629401"
+217,,160 A(W)
+217,217,"Govt. High School, Variyoor,East Building - 629401"
+218,218,"Govt High School Variyoor,North Terraced Building - 629401"
+219,219M,"Govt. Middle School, Pottalkulam,South Portion - 629401"
+219,219 A(W),"Govt. Middle School, Pottalkulam,North Concrete Building ,North portion. - 629401"
+220,220,"Govt. Middle School, Pottalkulam,North Portion - 629401"
+223,166 166,166M
+223,223,"St. Joseph Girls High School, Azhagappapuram,East Portion - 629401"
+224,,166 A(W)
+224,224,"St. Joseph Girls High School, Azhagappapuram,West Portion - 629401"
+226,168 168,168M
+227,,168 A(W)
+227,227,"Govt. Primary School, Mylaudy East,D.D Tiled Building South Portion - 629403"
+228,169 169,169M
+228,228,"Govt. Primary School, Mylaudy West,New East Building South Portion - 629403"
+229,,169 A(W)
+229,229,"Govt. Primary School, Mylaudy East,East North New Building - 629403"
+230,170 170,170M
+230,230,"Govt. Primary School, Mylaudy East,East North New Building - 629403"
+231,,170 A(W)
+232,232M,"Govt. Primary School, Mylaudy West,New Building North portion. - 629403"
+232,232 A(W),"Govt. Primary School, Mylaudy West,Main Building Computer room. - 629403"
+235,235,"Govt. High School, Kulasekharapuram,South New Building West Portion - 629403"
+236,236,"Govt. High School, Kulasekharapuram,South New New Middle Portion - 629403"
+238,238,"Govt. High School, North Thamaraikulam,New Building, Central Portion - 62704"
+239,178 178,178M
+239,239,"Govt. Primary School, North Thamaraikulam,Old Building, Middle Portion - 629704"
+240,,178 A(W)
+240,240,"Govt. High School, North Thamaraikulam,New Building South Portion - 629704"
+242,242,"Government High School, Eachanvilai,Main Building, South Portion - 629703"
+243,181 181,181M
+244,,181 A(W)
+244,244,"Govt. Primary School, Agasteeswarm , South Portion - 629701"
+247,247,"Govt. Hr. Sec. School, Agasteeswarm,Main Building, Middle Portion - 629701"
+248,185 185,185M
+249,,185 A(W)
+250,250,"Govt. Hr. Sec. School, Kottaram,Main Building, North Portion - 629703"
+251,251,"Govt. Hr. Sec. School, Kottaram,New Building, West Portion - 629703"
+253,253,"Govt. Primary School, Achankulam,West Portion - 62703"
+254,189 189,189M
+255,,189 A(W)
+256,256,"Govt. Primary School, Kottaram,South Portion - 629703"
+257,257,"Govt. Primary School, Kottaram,Middle Portion - 62703"
+258,258,"Govt. Primary School, Maharajapuram,New Building - 62702"
+259,259,"Govt. Primary School, Maharajapuram,New Building - 629702"
+260,194 194,194M
+260,260,"Govt. Primary School, Amanakkanvilai,New Add. Building, South Portion - 629702"
+261,,194 A(W)
+261,261,"Govt. Primary School, Amanakkanvilai,New Add. Building, South Portion - 62702"
+262,262,"Govt. Primary School, Amanakkanvilai,Main Building,South Portion - 629702"
+265,265,"Govt. Primary School, Leepuram,New Building, Eastern Portion - 629702"
+266,199 199,199M
+266,266,"Govt. High School, Mahadhanapuram,West Portion - 629702"
+267,,199 A(W)
+267,267,"Govt. High School, Mahadhanapuram,Main Building Eastern Portion - 629702"
+270,270,"Govt. Primary School, South Thamarikulam,North Building - 629708"
+273,273,"Govt. Primary School, Punnaiyadi,South Portion - 62701"
+274,274,"Govt. Primary School, Punnaiyadi,North Portion - 62701"
+276,208 208,208M
+276,276,"Govt. High School, Elanthayadivilai at,Mukilan Kudiyiruppu, West Portion - 629701"
+277,,208 A(W)
+277,277,"Community Hall Karumpatoor,East Portion - 62704"
+278,278,"Community Hall Karumpatoor,South Portion - 629704"
+279,279,"Govt. Middle School, Kottaiyadi,Main Building North Portion - 629704"
+280,280,"Govt. Middle School, Kottaiyadi,Main Building Middle Portion - 629704"
+282,282,"Govt. Middle School, Kottaiyadi,Middle Portion - 62704"
+283,283,"Govt. Middle School, Kottaiyadi,Middle Portion - 629704"
+284,215 215,215M
+284,284,"St. Ignatius Primary School, Kovalam,West Building East Portion - 629702"
+285,,215 A(W)
+285,285,"St. Ignatius Primary School, Kovalam,East Building North Side - 629702"
+286,286,"St. Ignatius Primary School, Kovalam,West Building South Portion - 629702"
+290,290,"St. Ignatius High School, Kovalam,West Building South Portion - 629702"
+291,291,"Govt. Primary School, Kanyakumari,North Building, East Portion - 629702"
+292,221 221,221M
+293,,221 A(W)
+293,293,"Govt. Primary School, Kanyakumari,Central Building, Central Portion - 629702"
+294,222 222,222M
+295,,222 A(W)
+295,295,"St. Antonys Hr. Secondary School, Kanyakumari,South Building, East Portion - 629702"
+296,296,"St. Antonys Hr. Secondary School, Kanyakumari,South Building, East Portion"
+297,297M,"St. Antonys Hr. Secondary School, Kanyakumari,South Building, Central Portion"
+297,297 A(W),"St. Antonys Hr. Secondary School, Kanyakumari,South Building,West Portion Gents staff room.-629702"
+298,225 225,225M
+298,298,"St. Antonys Hr. Secondary School, Kanyakumari,South Building, West Portion - 629702"
+299,,225 A(W)
+299,299,"St. Antonys Hr. Secondary School, Kanyakumari,Main Building, North side, South West Building - 629702"
+300,226 226,226M
+300,300,"St. Josephs Primary School, Kanyakumari,South Building East Portion - 629702"
+301,,226 A(W)
+301,301,"St. Josephs Primary School, Kanyakumari,South Building East Portion - 629702"
+303,303,"Govt. Primary School, Ottaiyalvilai,Add. Building - 629702"
+304,304,"Govt. Hr. Sec. School, Ottaiyalvilai,Add. Building"
+306,231 231,231M
+306,306,"Govt. Hr. Sec. School, Ottaiyalvilai,Main Building West Portion - 629702,"
+307,,231 A(W)
+307,307,"Govt. Hr. Sec. School, Ottaiyalvilai,Main Building East Portion - 629702,"
+310,233 233,233M
+310,310,"Govt. Primary School, Kundal,Old BuildingSouth Portion - 629702."
+311,,233 A(W)
+312,234 234,234M
+313,,234 A(W)
+316,237 237,237M
+317,,237 A(W)
+321,241 241,241M
+322,,241 A(W)
+324,243 243,243M
+325,,243 A(W)
+327,245 245,245M
+328,,245 A(W)
+329,246 246,246M
+330,,246 A(W)
+332,248 248,248M
+333,,248 A(W)
+334,249 249,249M
+335,,249 A(W)
+338,252 252,252M
+339,,252 A(W)
+341,254 254,254M
+342,,254 A(W)
+343,255 255,255M
+344,,255 A(W)
+352,263 263,263M
+353,,263 A(W)
+354,264 264,264M
+355,,264 A(W)
+359,268 268,268M
+360,,268 A(W)
+361,269 269,269M
+362,,269 A(W)
+364,271 271,271M
+365,,271 A(W)
+366,272 272,272M
+367,,272 A(W)
+370,275 275,275M
+371,,275 A(W)
+377,281 281,281M
+378,,281 A(W)
+384,287 287,287M
+385,,287 A(W)
+386,288 288,288M
+387,,288 A(W)
+388,289 289,289M
+389,,289 A(W)
+392,292 292,292M
+393,,292 A(W)
+395,294 294,294M
+396,,294 A(W)
+405,302 302,302M
+406,,302 A(W)
+409,305 305,305M
+410,,305 A(W)
+413,308 308,308M
+414,,308 A(W)
+415,309 309,309M
+416,,309 A(W)
